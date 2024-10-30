@@ -1,3 +1,21 @@
+dafandikri:
+  name: Erdafa Andikri
+  title: dafandikri
+  url: https://github.com/dafandikri
+  image_url: https://github.com/dafandikri.png
+  page: true
+  socials:
+    github: dafandikri
+
+githubhiseka:
+  name: Abhiseka Susanto
+  title: githubhiseka
+  url: https://github.com/githubhiseka
+  image_url: https://github.com/githubhiseka.png
+  page: true
+  socials:
+    github: dafandikri
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
